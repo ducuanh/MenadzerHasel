@@ -9,3 +9,6 @@ Aplikacja konsolowa napisana w języku C++. Aplikacja służy nam do zarządzani
 * **Edycja hasła**: Edycja danych istniejących haseł.
 * **Usuwanie hasła**: Usuwanie wybranych haseł z bazy.
 * **Dodawanie/Usuwanie kategorii**: Organizacja haseł w kategorie oraz możliwość zarządzania tymi kategoriami.
+  
+# Język programowania: 
+* [C++]
